@@ -11,7 +11,7 @@ Sources : https://github.com/GendarmerieNationale/ReceptionInfoDrone
 Une procédure décrit également comment démarrer le dispositif automatiquement sur le site des évolutions du drone sans intervention autre que celle de le mettre sous tension.
 La station de réception pourra être installée près de la zone du décollage du drone. Idéalement pour obtenir une meilleure réception sur support au-dessus en vérifiant de ne pas créer un obstacle.
 
-Ce dépôt complète celui qui permet de construire son propre dispositif de signalement « DIY-ESP32-Arduino-Signalement-Drone ». Il est recommandé de prendre connaissance des informations déjà.
+Ce dépôt complète celui qui permet de construire son propre dispositif de signalement « DIY-ESP32-Arduino-Signalement-Drone ». Il est recommandé de prendre connaissance des informations déjà fouries.
 
 Il y a donc deux parties dans cette publication :
 -	Le paramétrage d’un Raspberry PI 3 avec le noyau et les modifications permettant de recevoir les informations, les décoder, les formater et les enregistrés.
